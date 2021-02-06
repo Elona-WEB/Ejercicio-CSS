@@ -15,7 +15,8 @@ label[for='visitante']{
 
 input[value='Inscribirse']{
     border-bottom-style: groove;
-    border-width: 2px;
+    border-width: 1px;
+    border-radius: 3px;
     border-color: whitesmoke;
     background-color: white;
 }
