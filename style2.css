@@ -3,9 +3,17 @@
 }
 
 .dos{
-    color: royalblue;
+    color: blue;
 }
 
-.par{
+.paz{
     text-align: center;
+}
+
+.tres{
+    color:orange;
+}
+
+.pez{
+    font-weight: bold;
 }
